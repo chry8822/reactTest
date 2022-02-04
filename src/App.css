@@ -33,6 +33,26 @@ body {
   background-color: #eee;
   margin-top: 20px;
 }
+
+.publish {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.publish input {
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid gray;
+  width: 80%;
+  border-radius: 5px;
+}
+.publish button {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
